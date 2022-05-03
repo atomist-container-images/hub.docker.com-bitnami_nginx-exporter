@@ -1,12 +1,15 @@
-# Tags: latest, 0.10.0-debian-10-r128, 0.10.0, 0-debian-10, 0
+# Tags: latest, 0.10.0-debian-10-r129, 0.10.0, 0-debian-10, 0
 FROM bitnami/nginx-exporter:latest
-FROM bitnami/nginx-exporter:0.10.0-debian-10-r128
+FROM bitnami/nginx-exporter:0.10.0-debian-10-r129
 FROM bitnami/nginx-exporter:0.10.0
 FROM bitnami/nginx-exporter:0-debian-10
 FROM bitnami/nginx-exporter:0
 
 # Tags: _
 FROM bitnami/nginx-exporter:_
+
+# Tags: 0.10.0-debian-10-r128
+FROM bitnami/nginx-exporter:0.10.0-debian-10-r128
 
 # Tags: 0.10.0-debian-10-r127
 FROM bitnami/nginx-exporter:0.10.0-debian-10-r127
