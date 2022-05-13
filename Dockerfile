@@ -1,12 +1,42 @@
-# Tags: latest, 0.10.0-debian-10-r129, 0.10.0, 0-debian-10, 0
+# Tags: latest, 0.10.0-debian-10-r139, 0.10.0, 0-debian-10, 0
 FROM bitnami/nginx-exporter:latest
-FROM bitnami/nginx-exporter:0.10.0-debian-10-r129
+FROM bitnami/nginx-exporter:0.10.0-debian-10-r139
 FROM bitnami/nginx-exporter:0.10.0
 FROM bitnami/nginx-exporter:0-debian-10
 FROM bitnami/nginx-exporter:0
 
 # Tags: _
 FROM bitnami/nginx-exporter:_
+
+# Tags: 0.10.0-debian-10-r138
+FROM bitnami/nginx-exporter:0.10.0-debian-10-r138
+
+# Tags: 0.10.0-debian-10-r137
+FROM bitnami/nginx-exporter:0.10.0-debian-10-r137
+
+# Tags: 0.10.0-debian-10-r136
+FROM bitnami/nginx-exporter:0.10.0-debian-10-r136
+
+# Tags: 0.10.0-debian-10-r135
+FROM bitnami/nginx-exporter:0.10.0-debian-10-r135
+
+# Tags: 0.10.0-debian-10-r134
+FROM bitnami/nginx-exporter:0.10.0-debian-10-r134
+
+# Tags: 0.10.0-debian-10-r133
+FROM bitnami/nginx-exporter:0.10.0-debian-10-r133
+
+# Tags: 0.10.0-debian-10-r132
+FROM bitnami/nginx-exporter:0.10.0-debian-10-r132
+
+# Tags: 0.10.0-debian-10-r131
+FROM bitnami/nginx-exporter:0.10.0-debian-10-r131
+
+# Tags: 0.10.0-debian-10-r130
+FROM bitnami/nginx-exporter:0.10.0-debian-10-r130
+
+# Tags: 0.10.0-debian-10-r129
+FROM bitnami/nginx-exporter:0.10.0-debian-10-r129
 
 # Tags: 0.10.0-debian-10-r128
 FROM bitnami/nginx-exporter:0.10.0-debian-10-r128
@@ -67,33 +97,3 @@ FROM bitnami/nginx-exporter:0.10.0-debian-10-r110
 
 # Tags: 0.10.0-debian-10-r109
 FROM bitnami/nginx-exporter:0.10.0-debian-10-r109
-
-# Tags: 0.10.0-debian-10-r108
-FROM bitnami/nginx-exporter:0.10.0-debian-10-r108
-
-# Tags: 0.10.0-debian-10-r107
-FROM bitnami/nginx-exporter:0.10.0-debian-10-r107
-
-# Tags: 0.10.0-debian-10-r106
-FROM bitnami/nginx-exporter:0.10.0-debian-10-r106
-
-# Tags: 0.10.0-debian-10-r105
-FROM bitnami/nginx-exporter:0.10.0-debian-10-r105
-
-# Tags: 0.10.0-debian-10-r104
-FROM bitnami/nginx-exporter:0.10.0-debian-10-r104
-
-# Tags: 0.10.0-debian-10-r103
-FROM bitnami/nginx-exporter:0.10.0-debian-10-r103
-
-# Tags: 0.10.0-debian-10-r102
-FROM bitnami/nginx-exporter:0.10.0-debian-10-r102
-
-# Tags: 0.10.0-debian-10-r101
-FROM bitnami/nginx-exporter:0.10.0-debian-10-r101
-
-# Tags: 0.10.0-debian-10-r100
-FROM bitnami/nginx-exporter:0.10.0-debian-10-r100
-
-# Tags: 0.10.0-debian-10-r99
-FROM bitnami/nginx-exporter:0.10.0-debian-10-r99
